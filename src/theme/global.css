@@ -1,0 +1,31 @@
+:root{
+    --toolbar-color: #3880ff; 
+}
+
+ion-header ion-toolbar {
+    --background: var(--toolbar-color);
+    --color: #ffffff
+}
+
+
+/* Login page*/
+ion-row ion-col {
+    display: flex;
+    flex-direction: column;
+}
+
+ion-row h5 {
+    color: rgb(128, 130, 137);
+    text-align: center;
+    max-lines: 2;
+}
+
+#logo_menu {
+    padding: 0px 130px 10px 0px;
+    border-bottom: 1px solid var(--ion-color-step-150, #d7d8da);
+}
+#logo_login {
+    padding-top: 20px;
+    max-width: 300px;
+    margin: auto;
+}

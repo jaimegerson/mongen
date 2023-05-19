@@ -1,0 +1,7 @@
+{
+  "name": "mongen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
