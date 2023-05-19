@@ -25,7 +25,7 @@ const Login:React.FC = ()=>{
                         <img id='logo_login' src='../full_logo.png' alt="</> MONGEN"/>
                         <h5>
                             The mongen enables you to monitor
-                            your genset from anywhere
+                            your genset from anywhere //modification from git
                         </h5>
                         </IonCol>
                     </IonRow>
